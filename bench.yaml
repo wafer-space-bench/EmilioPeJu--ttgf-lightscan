@@ -1,0 +1,26 @@
+source:
+  url: https://github.com/EmilioPeJu/ttgf-lightscan
+  original_url: null
+  kind: fork
+  why: GitHub fork of the upstream repository
+  licence: null
+  upstream_default_branch: main
+tapeouts:
+- org: tinytapeout
+  run: ttgf26b
+  slot: tt_um_emiliopeju_lightscan
+  project: Lightscan
+  size: 1x2
+  kind: digital (Verilog)
+  commit: 046b9905777bd87e6606716d45f05f65adcdfe20
+  commit_source: commit from the shuttle repo's projects/<name>/commit_id.json
+  tag: tinytapeout/ttgf26b/tt_um_emiliopeju_lightscan
+  branch: tapeout/tinytapeout/ttgf26b/tt_um_emiliopeju_lightscan
+  page: https://app.tinytapeout.com/shuttles/ttgf26b
+generated: '2026-10-17T23:32:52Z'
+tooling: https://github.com/wafer-space/wafer.space-bench
+index: https://wafer-space-bench.github.io
+branches:
+- about
+- tapeout/tinytapeout/ttgf26b/tt_um_emiliopeju_lightscan
+- upstream/main
